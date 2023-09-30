@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key
+# Replace 'API_KEY' with your actual OpenWeatherMap API key
 API_KEY = '03c3df4d3139d6c3fd7bbf7afc67fc66'
 
 def get_weather(city_name):
